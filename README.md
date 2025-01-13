@@ -1,4 +1,4 @@
-![logo](https://github.com/Devendra661/Devendra661/blob/main/github-banner.png)
+![logo](https://github.com/Devendra661/Devendra661/blob/main/Computer%20Science%20Engineer%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate Java developer from India</h3>
